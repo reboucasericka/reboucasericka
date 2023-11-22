@@ -1,7 +1,8 @@
 
 <p align="center">Olá! Que bom que você está aqui! <br><br>
-<p align="justify">Atualmente, estou em um emocionante processo de transição de carreira, dedicando meu tempo ao aprofundamento em Tecnologias e Programação de Sistemas de Informação. Já dei os primeiros passos em #python, #java, #SQL e #MySql, e agora estou encarando mais um desafio: o estudo da língua inglesa, uma jornada empolgante para quem tem 4.0.Ao longo dos anos, adquiri uma bagagem de conhecimento abrangente, proporcionando empatia e maturidade, habilidades fundamentais para desempenhar meu papel em equipa. Participei de projetos desafiadores, nos quais aprendi e cresci. Minha curiosidade, flexibilidade e habilidades de comunicação facilitam a transição por diferentes áreas, contribuindo para uma comunicação assertiva e resolução ágil de problemas.
-<strong>Sua presença aqui me deixa muito feliz. </strong> </p>&nbsp;
+<p align="justify">Atualmente, estou em um emocionante processo de transição de carreira, dedicando meu tempo ao aprofundamento em Tecnologias e Programação de Sistemas de Informação. Já dei os primeiros passos em #python, #java, #SQL e #MySql. 
+<strong>
+## <p align="center">Sua presença aqui me deixa muito feliz. </strong> </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
