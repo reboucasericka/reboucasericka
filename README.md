@@ -35,6 +35,8 @@
 #### Databases:
 
 ![MySQL9](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQLServer](https://img.shields.io/badge/SQLServer-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
 
 #### Workstation Tools:
 
