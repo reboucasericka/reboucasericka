@@ -1,18 +1,13 @@
 
 <p align="center">Olá! Que bom que você está aqui! <br><br>
 <p align="justify">Atualmente, estou em um emocionante processo de transição de carreira, dedicando meu tempo ao aprofundamento em Tecnologias e Programação de Sistemas de Informação. Já dei os primeiros passos em #python, #java, #SQL e #MySql. 
-<strong>
-## <p align="center">Sua presença aqui me deixa muito feliz. </strong> </p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
- </div>
  
- &nbsp;
- &nbsp;
-
-
+<strong>
+## <p align="center">Sua presença aqui me deixa muito feliz. </strong> </p>
+<div align="center" style="margin-bottom:100" />
+    <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=reboucasericka&theme=radical&mode=weekly"
+    <img width="40%" align="center" src="https://github-readme-stats-git-main.vercel.app/api/top-langs/?username=reboucaserickaI&show_icons=true&theme=radical&layout=compact"
+</div>
 
 ## My Skills
 
