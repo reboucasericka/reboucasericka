@@ -1,6 +1,6 @@
 
 <p align="center">Olá! Que bom que você está aqui! <br><br>
-<p align="justify">Atualmente, estou em um emocionante processo de transição de carreira, dedicando meu tempo ao aprofundamento em Programação. #python, #java, #SQL e #MySql. 
+<p align="justify"> Meu nome é Ericka Rebouças, e moro em Portugal(PT). Atualmente, estou em um emocionante processo de transição de carreira. 
 <strong>
 ## <p align="center">Sua presença aqui me deixa muito feliz. </strong> </p>&nbsp;
 
