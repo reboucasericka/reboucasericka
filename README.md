@@ -1,15 +1,19 @@
 
 <p align="center">Olá! Que bom que você está aqui! <br><br>
-<p align="justify">Atualmente, estou em um emocionante processo de transição de carreira, dedicando meu tempo ao aprofundamento em Programação. #python, #java, #SQL e #MySql. 
-<strong>
-## <p align="center">Sua presença aqui me deixa muito feliz. </strong> </p>&nbsp;
+<p align="center">Eu sou a Ericka Rebouças e estou dedicando meu tempo para estudar Programação. <br><br>
+<p align="center">Sua presença aqui me deixa muito feliz. </strong> </p>&nbsp;
 
 
 ## My Skills
 
 #### Main:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![SQLServer](https://img.shields.io/badge/SQLServer-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -28,11 +32,13 @@
 ![SQLServer](https://img.shields.io/badge/SQLServer-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
-#### Workstation Tools:
+####  IDEs Used in Modern Programming:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+
 
 &nbsp;
 &nbsp;
