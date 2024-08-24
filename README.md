@@ -1,8 +1,24 @@
+<div align="center">
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+Bold&weight=600&pause=1000&color=C82B9D&center=false&vCenter=false&repeat=true&random=false&width=435&lines=Ol%C3%A1!+Que+bom+que+voc%C3%AA+est%C3%A1+aqui!+" alt="Typing SVG">
+   </a>
+</div>
 
-<p align="center">Olá! Que bom que você está aqui! <br><br>
-<p align="center">Eu sou a Ericka Rebouças e estou dedicando meu tempo para estudar Programação. <br><br>
-<p align="center">Sua presença aqui me deixa muito feliz. </strong> </p>&nbsp;
+<img align="center" alt="" src="./src/header-gif.gif">
 
+#
+
+<p style="text-align: justify;"> Estudante Apaixonada por Aprender 
+<p style="text-align: justify;"> Atualmente, estou cursando o CET de Técnico(a) Especialista em Tecnologias e Programação de Sistemas de Informação no CINEL, um dos principais Centros de Formação nesta área em Portugal. Além disso, dedico-me ao estudo de projetos em Python, o que me permite aplicar na prática os conhecimentos adquiridos. 
+<p style="text-align: justify;"> Sou uma pessoa constantemente em busca de novos desafios na área de programação. Tenho uma paixão inata por aprender e por transformar esse aprendizado em soluções inovadoras que possam fazer a diferença.</p>&nbsp;
+
+<p align="center">Sua presença aqui me deixa muito feliz.</p>&nbsp;
+
+<div align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+</a>
+</div>
 
 ## My Skills
 
@@ -44,6 +60,7 @@
 &nbsp;
 
 ## Contacts:
+<h3 align="left">Connect with me!</h3>
 
 <div> 
 <a href="https://www.instagram.com/reboucasericka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
