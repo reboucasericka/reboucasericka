@@ -12,7 +12,7 @@
 <p style="text-align: justify;"> Atualmente, estou cursando o CET de Técnico(a) Especialista em Tecnologias e Programação de Sistemas de Informação no CINEL, um dos principais Centros de Formação nesta área em Portugal. Além disso, dedico-me ao estudo de projetos em Python, o que me permite aplicar na prática os conhecimentos adquiridos. 
 <p style="text-align: justify;"> Sou uma pessoa constantemente em busca de novos desafios na área de programação. Tenho uma paixão inata por aprender e por transformar esse aprendizado em soluções inovadoras que possam fazer a diferença.</p>&nbsp;
 
-<p align="center">Sua presença aqui me deixa muito feliz.</p>&nbsp;
+
 
 <div align="center">
 <a href="https://git.io/typing-svg">
@@ -69,7 +69,15 @@
 <a href="https://www.linkedin.com/in/erickareboucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 </div>&nbsp;&nbsp;
- 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Arial&weight=900&size=20&duration=4000&pause=800&color=D2B7FFFD&center=true&vCenter=true&width=1000&lines=Sua+presença+aqui+me+deixa+muito+feliz+!)](https://git.io/typing-svg)
+
+
+<div align="center">
+<br><p align="centre"><b>Contador de visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{reboucasericka}/count.svg" /></p> 
+<br>
+</div> 
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
