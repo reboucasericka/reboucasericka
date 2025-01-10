@@ -7,10 +7,14 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 #
+> Status: Developing ⚠️
+<p style="text-align: justify;">
+    Sou desenvolvedor/a em formação, com experiência prática inicial em desenvolvimento web, utilizando tecnologias como PHP e MySQL, e conhecimentos em React para aplicações modernas. Atualmente, meu foco está no desenvolvimento de soluções voltadas para gestão empresarial, delivery e controle de fluxo de caixa. Além disso, possuo familiaridade com versionamento de código (Git), aplicado em projetos acadêmicos e pessoais.
+</p>
+<p style="text-align: justify;">
+    Busco integrar equipes de desenvolvimento onde possa contribuir com habilidades em programação, análise de dados e aplicação de metodologias ágeis, além de continuar evoluindo profissionalmente em ambientes colaborativos e desafiadores.
+</p>
 
-<p style="text-align: justify;"> Estudante Apaixonada por Aprender 
-<p style="text-align: justify;"> Atualmente, estou cursando o CET de Técnico(a) Especialista em Tecnologias e Programação de Sistemas de Informação no CINEL, um dos principais Centros de Formação nesta área em Portugal. Além disso, dedico-me ao estudo de projetos em Python, o que me permite aplicar na prática os conhecimentos adquiridos. 
-<p style="text-align: justify;"> Sou uma pessoa constantemente em busca de novos desafios na área de programação. Tenho uma paixão inata por aprender e por transformar esse aprendizado em soluções inovadoras que possam fazer a diferença.</p>&nbsp;
 
 
 
