@@ -1,95 +1,96 @@
 <div align="center">
-   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+Bold&weight=600&pause=1000&color=C82B9D&center=false&vCenter=false&repeat=true&random=false&width=435&lines=Ol%C3%A1!+Que+bom+que+voc%C3%AA+est%C3%A1+aqui!+" alt="Typing SVG">
-   </a>
+
+# Ericka Rebouças
+
+**Backend Developer | PHP (Laravel) • APIs REST • MySQL**
+
+📍 Portugal
+
+🌐 Portfólio: https://reboucasericka.github.io/
+
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+---
 
-#
-> Status: Developing ⚠️
-<p style="text-align: justify;">
-    Sou desenvolvedor/a em formação, com experiência prática inicial em desenvolvimento web, utilizando tecnologias como PHP e MySQL, e conhecimentos em React para aplicações modernas. Atualmente, meu foco está no desenvolvimento de soluções voltadas para gestão empresarial, delivery e controle de fluxo de caixa. Além disso, possuo familiaridade com versionamento de código (Git), aplicado em projetos acadêmicos e pessoais.
-</p>
-<p style="text-align: justify;">
-    Busco integrar equipes de desenvolvimento onde possa contribuir com habilidades em programação, análise de dados e aplicação de metodologias ágeis, além de continuar evoluindo profissionalmente em ambientes colaborativos e desafiadores.
-</p>
+## 👩‍💻 Sobre mim
 
+Desenvolvedora backend com experiência prática na construção de aplicações reais em **Laravel (PHP)**, com foco em **APIs REST, regras de negócio e consistência de dados**.
 
+Atuei no desenvolvimento de sistemas completos, incluindo um **ERP modular** e um **sistema de gestão de biblioteca**, da modelação de dados à integração com APIs externas e autenticação segura.
 
+Procuro integrar uma equipa onde possa contribuir com desenvolvimento backend consistente e evoluir em contexto de produção.
+
+---
+
+## 🚀 Principais competências
+
+- Desenvolvimento backend com **PHP (Laravel 12)**
+- Construção de **APIs REST estruturadas e versionadas**
+- Arquitetura **MVC + camada de Services**
+- Modelação e gestão de dados com **MySQL**
+- Implementação de **regras de negócio e controlo de consistência**
+- Autenticação com **Laravel Sanctum e 2FA**
+- Integração com APIs externas
+
+---
+
+## 📌 Projetos em destaque
+
+### 🏢 Sistema de Gestão Empresarial (ERP)
+- Backend em Laravel com arquitetura baseada em Services  
+- API REST versionada (`/api/v1`) com estrutura padronizada  
+- Gestão de entidades, contactos, finanças e arquivos digitais  
+- Sistema de permissões com Spatie (ACL por módulo)  
+
+🔗 https://github.com/reboucasericka/sistemagestao
+
+---
+
+### 📚 Sistema de Gestão de Biblioteca
+- CRUD completo com regras de negócio e validações  
+- Controlo de empréstimos com consistência (transações)  
+- Integração com Google Books API  
+- Autenticação com 2FA  
+
+🔗 https://github.com/reboucasericka/biblioteca
+
+---
+
+## 🛠️ Stack
 
 <div align="center">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-</a>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
+
 </div>
 
-## My Skills
+---
 
-#### Main:
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![SQLServer](https://img.shields.io/badge/SQLServer-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-![SQLlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
-
-#### Databases:
-
-![MySQL9](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SQLServer](https://img.shields.io/badge/SQLServer-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-
-####  IDEs Used in Modern Programming:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
-![Apache](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-<h3 align="left">Connect with me!</h3>
-
-<div> 
-<a href="https://www.instagram.com/reboucasericka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:reboucasericka@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/erickareboucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-
-</div>&nbsp;&nbsp;
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Arial&weight=900&size=20&duration=4000&pause=800&color=D2B7FFFD&center=true&vCenter=true&width=1000&lines=Sua+presença+aqui+me+deixa+muito+feliz+!)](https://git.io/typing-svg)
-
+## 📊 GitHub Stats
 
 <div align="center">
-<br><p align="centre"><b>Contador de visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{reboucasericka}/count.svg" /></p> 
-<br>
-</div> 
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-#
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reboucasericka/reboucasericka/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reboucasericka/reboucasericka/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/reboucasericka/reboucasericka/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=reboucasericka&show_icons=true&theme=dracula&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reboucasericka&layout=compact&langs_count=5&theme=dracula&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Contacto
+
+- 📧 reboucasericka@gmail.com  
+- 💼 https://www.linkedin.com/in/erickareboucas  
+
+---
+
+<div align="center">
+
+**Disponível para oportunidades como Backend Developer (PHP/Laravel)**
+
+</div>
