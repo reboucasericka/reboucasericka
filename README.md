@@ -14,47 +14,60 @@
 
 ## 👩‍💻 Sobre mim
 
-Desenvolvedora backend com experiência prática na construção de aplicações reais em **Laravel (PHP)**, com foco em **APIs REST, regras de negócio e consistência de dados**.
+Desenvolvedora Backend com experiência prática no desenvolvimento de aplicações web utilizando **PHP (Laravel)**, com foco em **APIs REST, regras de negócio, integração de sistemas e consistência de dados**.
 
-Atuei no desenvolvimento de sistemas completos, incluindo um **ERP modular** e um **sistema de gestão de biblioteca**, da modelação de dados à integração com APIs externas e autenticação segura.
+Participei no desenvolvimento de soluções empresariais, incluindo um **ERP modular** e um **Sistema de Gestão de Biblioteca**, transformando necessidades de negócio em aplicações capazes de organizar informação, automatizar processos e apoiar a tomada de decisão.
 
-Procuro integrar uma equipa onde possa contribuir com desenvolvimento backend consistente e evoluir em contexto de produção.
+Tenho experiência em modelação de bases de dados, autenticação segura, integração com APIs externas e desenvolvimento de funcionalidades orientadas à resolução de problemas reais.
+
+Procuro integrar uma equipa onde possa contribuir para a construção e evolução de aplicações web, continuar a desenvolver competências técnicas e participar em projetos com impacto prático.
+
 
 ---
 
 ## 🚀 Principais competências
 
-- Desenvolvimento backend com **PHP (Laravel 12)**
-- Construção de **APIs REST estruturadas e versionadas**
-- Arquitetura **MVC + camada de Services**
-- Modelação e gestão de dados com **MySQL**
-- Implementação de **regras de negócio e controlo de consistência**
-- Autenticação com **Laravel Sanctum e 2FA**
-- Integração com APIs externas
+* Desenvolvimento Backend com **PHP (Laravel 12)**
+* Desenvolvimento de aplicações web e sistemas de gestão
+* Construção de **APIs REST estruturadas e versionadas**
+* Arquitetura **MVC**, Services e organização por camadas
+* Modelação e gestão de bases de dados com **MySQL**
+* Implementação de regras de negócio e consistência de dados
+* Autenticação e controlo de acesso com **Laravel Sanctum e 2FA**
+* Integração com APIs externas e serviços de terceiros
+* Resolução de problemas técnicos e melhoria contínua de aplicações
 
 ---
 
 ## 📌 Projetos em destaque
 
 ### 🏢 Sistema de Gestão Empresarial (ERP)
-- Backend em Laravel com arquitetura baseada em Services  
-- API REST versionada (`/api/v1`) com estrutura padronizada  
-- Gestão de entidades, contactos, finanças e arquivos digitais  
-- Sistema de permissões com Spatie (ACL por módulo)  
 
-🔗 https://github.com/reboucasericka/sistemagestao
+* Centraliza a gestão de clientes, fornecedores, documentos e processos financeiros numa única plataforma.
+* Desenvolvido para melhorar a organização da informação e apoiar a gestão operacional das empresas.
+* Backend em Laravel com arquitetura baseada em Services.
+* API REST versionada (`/api/v1`) com estrutura padronizada.
+* Sistema de permissões por módulos utilizando Spatie Permission (ACL).
+* Integração entre diferentes áreas do negócio numa única aplicação.
+
+🔗 https://github.com/reboucasericka/erp-management-system
 
 ---
 
 ### 📚 Sistema de Gestão de Biblioteca
-- CRUD completo com regras de negócio e validações  
-- Controlo de empréstimos com consistência (transações)  
-- Integração com Google Books API  
-- Autenticação com 2FA  
 
-🔗 https://github.com/reboucasericka/biblioteca
+* Sistema desenvolvido para gerir livros, empréstimos, devoluções e disponibilidade de exemplares.
+* Permite controlar o ciclo completo de empréstimos, garantindo consistência dos dados e rastreabilidade das operações.
+* CRUD completo com regras de negócio e validações.
+* Integração com Google Books API.
+* Autenticação segura com 2FA.
+* Organização e automatização de processos bibliotecários.
+
+🔗 https://github.com/reboucasericka/library-management-system
 
 ---
+
+
 
 ## 🛠️ Stack
 
